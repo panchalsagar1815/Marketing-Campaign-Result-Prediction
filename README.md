@@ -1,4 +1,4 @@
-# Marketing-Campaign-Result
+# Marketing-Campaign-R
 
 ## Project: Marketing Campaign Result Prediction
 
