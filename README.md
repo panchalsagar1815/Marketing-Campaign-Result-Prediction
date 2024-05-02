@@ -12,7 +12,7 @@ This project aims to develop a predictive model to forecast the success of marke
 
 4. **Model Selection & Training:** Various machine learning models, such as Logistic Regression, Random Forest, or Gradient Boosting, will be evaluated for their ability to predict campaign response. Hyperparameter tuning will be used to optimize each model's configuration for the specific dataset.
 
-5. **Model Evaluation:** Performance metrics, like accuracy, precision, recall, and F1-score, will be used to assess the effectiveness of different models. The best performing model will be chosen for further analysis.
+5. **Model Evaluation:** Performance metrics, like accuracy, precision, recall, and F1 score, will be used to assess the effectiveness of different models. The best performing model will be chosen for further analysis.
 
 6. **Visualization & Interpretation:** Feature importance analysis will be used to understand which factors have the most significant influence on campaign response. This will be further visualized to provide actionable insights for marketing teams.
 
