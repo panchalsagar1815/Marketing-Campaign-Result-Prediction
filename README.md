@@ -1,5 +1,4 @@
-# Marketing-Cam
-
+# Marketing
 ## Project: Marketing Campaign Result Prediction
 
 This project aims to develop a predictive model to forecast the success of marketing campaigns for a specific company. By analyzing past customer data and campaign performance, the model will estimate the likelihood of a customer responding positively to a future campaign.
