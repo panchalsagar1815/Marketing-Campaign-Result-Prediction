@@ -1,4 +1,4 @@
-# Marketing-Campaig
+# Marketing-Cam
 
 ## Project: Marketing Campaign Result Prediction
 
