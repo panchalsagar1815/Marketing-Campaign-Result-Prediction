@@ -18,4 +18,16 @@ This project aims to develop a predictive model to forecast the success of marke
 
 7. **Deployment & Monitoring:** The final model can be integrated into a marketing automation platform to predict campaign success for targeted customer segments. The model's performance will be monitored and periodically updated with new data to maintain accuracy.
 
+**Data Features:**
+
+- **Demographics:**  ID (anonymized), Year_Birth, Education, Marital_Status, Income
+- **Household:** Kidhome (presence of children), Teenhome (presence of teenagers)
+- **Customer Relationship:** Dt_Customer (date the customer became a customer), Recency (days since last purchase)
+- **Purchase History:** Mnt* (monetary value spent on different product categories: Wines, Fruits, Meat Products, Fish Products, Sweet Products, Gold Products)
+- **Campaign Interaction:** Num*Purchases (number of purchases made through different channels: Deals, Web, Catalog, Store), NumWebVisitsMonth (number of website visits in a month)
+- **Campaign Response:** AcceptedCmp* (binary: whether the customer accepted a specific campaign offer 1-5), Complain (binary: whether the customer complained)
+- **Cost & Revenue:** Z_CostContact (cost of contacting the customer), Z_Revenue (revenue generated from the customer)
+- **Target Variable:** Response (binary: whether the customer responded positively to the campaign)
+
+The project has already completed data cleaning, EDA, and visualization steps, laying the groundwork for model selection, training, and evaluation. 
 
